@@ -1,0 +1,16 @@
+C:\Users\Dr. klover\Desktop\VB\testApp1\bin\Debug\net8.0-windows\testApp1.exe
+C:\Users\Dr. klover\Desktop\VB\testApp1\bin\Debug\net8.0-windows\testApp1.deps.json
+C:\Users\Dr. klover\Desktop\VB\testApp1\bin\Debug\net8.0-windows\testApp1.runtimeconfig.json
+C:\Users\Dr. klover\Desktop\VB\testApp1\bin\Debug\net8.0-windows\testApp1.dll
+C:\Users\Dr. klover\Desktop\VB\testApp1\bin\Debug\net8.0-windows\testApp1.pdb
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.Form1.resources
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.vbproj.GenerateResource.cache
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.AssemblyInfoInputs.cache
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.AssemblyInfo.vb
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.vbproj.CoreCompileInputs.cache
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.dll
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\refint\testApp1.dll
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.pdb
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\testApp1.genruntimeconfig.cache
+C:\Users\Dr. klover\Desktop\VB\testApp1\obj\Debug\net8.0-windows\ref\testApp1.dll
